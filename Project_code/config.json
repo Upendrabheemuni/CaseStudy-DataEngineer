@@ -1,0 +1,21 @@
+{
+    "INPUT_FILENAME": {
+        "Charges": "../Data/Charges_use.csv",
+        "Damages": "../Data/Damages_use.csv",
+        "Endorse": "../Data/Endorse_use.csv",
+        "Primary_Person": "../Data/Primary_Person_use.csv",
+        "Units": "../Data/Units_use.csv",
+        "Restrict": "../Data/Restrict_use.csv"
+    },
+    "OUTPUT_PATH": {
+        "output_path_1": "../Output/Analysis1",
+        "output_path_2": "../Output/Analysis2",
+        "output_path_3": "../Output/Analysis3",
+        "output_path_4": "../Output/Analysis4",
+        "output_path_5": "../Output/Analysis5",
+        "output_path_6": "../Output/Analysis6",
+        "output_path_7": "../Output/Analysis7",
+        "output_path_8": "../Output/Analysis8"
+    }
+
+}
